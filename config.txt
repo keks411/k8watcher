@@ -1,6 +1,1 @@
-#Logins for internal portal 172.16.100.X (habs vergessen sry lol)
-SSH_port hat irgendwer umgezogen aber keine ahnung wohin
-
-Default Login:
-k8dev
-Password123XYZ
+DELETED
